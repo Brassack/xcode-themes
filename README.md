@@ -29,6 +29,10 @@ by [mduvall](https://github.com/mduvall)<br>
 ### Monokai
 ![Monokai](http://damir.me/system/u/manual/monokai.jpg)
 
+### Monokai_like
+Added by [vencentle](https://github.com/vencentle)<br>
+![Monokai_like](http://i.imgur.com/VJvMtHD.jpg)
+
 ### Night
 ![Night](http://damir.me/system/u/manual/night.jpg)
 
@@ -53,6 +57,10 @@ Available for all kind of editors on [GitHub](https://github.com/chriskempson/to
 ### Tomorrow Dark
 Nice dark variant.<br>
 ![Tomorrow Dark](http://damir.me/system/u/manual/tomorrow-dark.png)
+
+### Treasurechest
+by [BenediktReichert](https://github.com/benediktreichert/treasurechest)<br>
+![Treasurechest](https://raw.githubusercontent.com/benediktreichert/Treasurechest-Xcode-Color-Theme/screenshots/screen_1.png)
 
 ### Yozora
 My absolute favorite!<br>
@@ -82,7 +90,7 @@ My favorite. Shipped with Mac OS.
 ![Meno](http://damir.me/system/u/manual/fonts/menlo.png)
 
 ### Meslo ([download](https://github.com/andreberg/Meslo-Font))
-A great Menlo alternative that comes with three different line height options. Recommended if you prefer a little bit of air between your lines.
+A great Menlo alternative that comes with three different line height options. Recommended if you prefer a little bit of air between your lines.<br>
 ![Meslo](http://damir.me/system/u/manual/fonts/meslo.png)
 
 ### Monaco
@@ -105,3 +113,7 @@ Adobe's open source font. Recommended!<br>
 1. Copy the theme(s) to the Xcode's `FontAndColorThemes` folder (`~/Library/Developer/Xcode/UserData/FontAndColorThemes/`).
 2. Restart Xcode.
 3. Enjoy.
+
+### ThemeInstaller app
+Find and install [ThemeInstaller](http://www.apptorium.com/products/themeinstaller) app from the Mac App Store. Open theme you want to install and it's done. Themes are visible after Xcode is restarted.
+
